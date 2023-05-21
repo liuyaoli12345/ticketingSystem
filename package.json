@@ -1,0 +1,19 @@
+{
+  "name": "ticketingsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyaoli12345/ticketingSystem.git"
+  },
+  "author": "lyl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyaoli12345/ticketingSystem/issues"
+  },
+  "homepage": "https://github.com/liuyaoli12345/ticketingSystem#readme"
+}
